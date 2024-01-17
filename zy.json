@@ -867,6 +867,18 @@
             "isActive": true,
             "resource": 49664
         },
+            {
+       "key": "影图影视",
+       "name": "影图影视",
+       "api": "https://cj.vodimg.top/api.php/provide/vod/",
+       "download": "",
+       "jiexiUrl": "",
+       "group": "默认",
+       "status": true,
+       "isActive": true,
+       "type": 1,
+       "id": 19
+     },
         {
             "key": "sdzyapi",
             "name": "闪电资源网",
