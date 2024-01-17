@@ -1,5 +1,7 @@
 {
-    "iptv": [
+    "iptv": {
+        "default":1,
+        "data":[
       {
         "id": 1,
         "name": "APTV",
@@ -240,8 +242,11 @@
         "isActive": true,
         "id": 58
       }
-    ],
-    "channel": [
+    ]},
+    "channel": {
+        "default":1,
+      "data":
+        [
       {
         "name": "CCTV1",
         "logo": "https://epg.112114.xyz/logo/CCTV1.png",
@@ -641,8 +646,10 @@
         "url": "http://218.17.196.234:9901/tsfile/live/1004_1.m3u8",
         "id": 154076
       }
-    ],
-    "site": [
+    ]},
+    "site": {
+        "default":1,
+        "data":[
         {
             "key": "量子资源",
             "name": "量子资源",
@@ -1348,8 +1355,10 @@
             "id": 57,
             "resource": 33230
         }
-    ],
-    "setting": [
+    ]},
+    "setting": {
+        "default":1,
+        "data":[
         {
           "id": 0,
           "theme": "auto",
@@ -1393,8 +1402,10 @@
           "iptvStatus": true,
           "dns": "https://sm2.doh.pub/dns-query"
         }
-      ],
-    "analyzeHistory": [
+      ]},
+    "analyzeHistory": {
+        "default":1,
+        "data":[
       {
         "date": "2023-09-03",
         "analyzeId": 2,
@@ -1402,18 +1413,24 @@
         "videoName": "前夜_1080P在线观看平台",
         "id": 1
       }
-    ],
-    "history": [
+    ]},
+    "history": {
+        "default":1,
+      "data":[
       
-    ],
-    "searchHistory": [
+    ]},
+    "searchHistory": {
+        "default":1,
+      "data":[
       {
         "title": "父辈的荣耀",
         "type": "film",
         "id": 1
       }
-    ],
-    "star": [
+    ]},
+    "star": {
+        "default":1,
+      "data":[
       
-    ]
+    ]}
   }
