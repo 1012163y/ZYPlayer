@@ -829,6 +829,17 @@
             "isActive": true,
             "type": 1,
             "id": 15
+        },
+        {
+            "key": "6Uzy",
+            "name": "6U资源",
+            "api": "http://zy.ataoju.com/inc/api.php",
+            "playUrl": "",
+            "search": 1,
+            "group": "切片",
+            "status": false,
+            "type": 1,
+            "id": 16
         }
     ]},
     "analyzes":  {"default":1,
