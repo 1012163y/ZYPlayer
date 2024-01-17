@@ -1356,81 +1356,45 @@
             "resource": 33230
         }
     ]},
-    "setting": {
-        "default":1,
-        "data":[
-        {
-          "id": 0,
-          "theme": "auto",
-          "externalPlayer": "",
-          "defaultHot": "kylive",
-          "defaultSearchRecommend": "site",
-          "defaultSearchType": "site",
-          "defaultCheckModel": true,
-          "defaultChangeModel": false,
-          "defaultIptvEpg": "https://epg.112114.eu.org/",
-          "iptvSkipIpv6": true,
-          "iptvThumbnail": true,
-          "restoreWindowPositionAndSize": false,
-          "pauseWhenMinimize": true,
-          "defaultSite": 3,
-          "defaultIptv": 5,
-          "defaultAnalyze": 2,
-          "analyzeFlag": [
-            "youku",
-            "qq",
-            "iqiyi",
-            "qiyi",
-            "letv",
-            "sohu",
-            "tudou",
-            "pptv",
-            "mgtv"
-          ],
-          "analyzeQuickSearchType": "platform",
-          "analyzeSupport": true,
-          "broadcasterType": "iina",
-          "softSolution": false,
-          "skipStartEnd": false,
-          "agreementMask": true,
-          "recordShortcut": "Shift+Command+Z",
-          "selfBoot": false,
-          "hardwareAcceleration": true,
-          "doh": "",
-          "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-          "communitySubscribe": "",
-          "iptvStatus": true,
-          "dns": "https://sm2.doh.pub/dns-query"
-        }
-      ]},
-    "analyzeHistory": {
-        "default":1,
-        "data":[
-      {
-        "date": "2023-09-03",
-        "analyzeId": 2,
-        "videoUrl": "https://v.qq.com/x/cover/mzc00200v6zk1xm.html",
-        "videoName": "前夜_1080P在线观看平台",
-        "id": 1
-      }
-    ]},
-    "history": {
-        "default":1,
-      "data":[
-      
-    ]},
-    "searchHistory": {
-        "default":1,
-      "data":[
-      {
-        "title": "父辈的荣耀",
-        "type": "film",
-        "id": 1
-      }
-    ]},
-    "star": {
-        "default":1,
-      "data":[
-      
-    ]}
+    "analyzes":  {"default":1,
+      "data":
+   [
+     {
+       "name": "777",
+       "url": "https://jx.777jiexi.com/player/?url=",
+       "isActive": true,
+       "id": 1
+     },
+     {
+       "name": "虾米",
+       "url": "https://jx.xmflv.com/?url=",
+       "isActive": true,
+       "id": 2
+     },
+     {
+       "name": "json",
+       "url": "https://jx.bozrc.com:4433/player/?url=",
+       "isActive": true,
+       "id": 3
+     },
+     {
+       "name": "诺讯",
+       "url": "https://www.nxflv.com/?url=",
+       "isActive": true,
+       "id": 4
+     },
+     {
+       "name": "夜幕",
+       "url": "https://www.yemu.xyz/?url=",
+       "isActive": true,
+       "id": 5
+     },
+     {
+       "name": "战狼",
+       "url": "https://jx.zhanlangbu.com/?url=",
+       "isActive": true,
+       "id": 6
+     }
+   ]
+   }
   }
