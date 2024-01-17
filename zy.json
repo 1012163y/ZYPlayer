@@ -831,15 +831,17 @@
             "id": 15
         },
         {
-            "key": "6Uzy",
-            "name": "6U资源",
-            "api": "http://zy.ataoju.com/inc/api.php",
+            "key": "apibdzy",
+            "name": "百度云资源",
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "playUrl": "",
-            "search": 1,
+            "search": 0,
             "group": "切片",
-            "status": false,
+            "status": true,
             "type": 1,
-            "id": 16
+            "id": 17,
+            "isActive": true,
+            "resource": 45356
         }
     ]},
     "analyzes":  {"default":1,
